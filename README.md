@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# perfex-s3-storage-plugin
-Open-source Amazon S3 and S3-compatible storage integration for Perfex CRM
-=======
 <div align="center">
   <a href="https://www.fylo.co.in">
     <img src="https://fylo.co.in/logo.png" alt="Fylo Logo" height="80">
@@ -100,4 +96,3 @@ By purchasing or downloading this module, you are granted a license to use it on
 <div align="center">
   <sub>Built with ❤️ by <a href="https://www.fylo.co.in">Fylo.co.in</a> for the Perfex CRM Community.</sub>
 </div>
->>>>>>> a444755 (plugin)
