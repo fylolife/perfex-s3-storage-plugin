@@ -1,0 +1,40 @@
+# Composer dependencies
+vendor/
+
+# User-specific files
+*.log
+.env
+.env.backup
+.env.example
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor folders
+.idea/
+.vscode/
+*.swp
+*.swo
+.buildpath
+.project
+.settings/
+
+# Temporary and Cache files
+application/cache/*
+!application/cache/index.html
+application/logs/*
+!application/logs/index.html
+*.tmp
+*.bak
+*.cache
+
+# Build archives
+*.zip
+*.tar.gz
+*.rar

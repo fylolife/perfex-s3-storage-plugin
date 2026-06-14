@@ -1,0 +1,8 @@
+{
+    "name": "perfex/s3_storage",
+    "description": "Amazon S3 Storage module for Perfex CRM",
+    "require": {
+        "php": ">=7.2.5",
+        "aws/aws-sdk-php": "^3.0"
+    }
+}
